@@ -1,4 +1,4 @@
-
+<html>
 
 <script id="vertex-shader" type="x-shader/x-vertex">
     attribute  vec4 vPosition;
@@ -275,3 +275,4 @@
 </div>
 --------------------------------------------------------------------------
 
+</html>
